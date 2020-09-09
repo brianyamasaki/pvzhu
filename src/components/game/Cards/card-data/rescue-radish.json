@@ -2,6 +2,7 @@
   "name": "Rescue Radish",
   "team": "Plants",
   "type": "fighter",
+  "description": "",
   "mana": 3,
   "strength": 3,
   "health": 4,

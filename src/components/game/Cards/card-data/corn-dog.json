@@ -2,6 +2,7 @@
   "name": "Corn Dog",
   "team": "Plants",
   "type": "fighter",
+  "description": "",
   "mana": 2,
   "strength": 3,
   "health": 2,

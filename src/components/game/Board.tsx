@@ -7,11 +7,11 @@ const Player: React.FC = () => {
   return (
     <Fragment>
       <div className="game-board">
-        <Lane />
-        <Lane />
-        <Lane />
-        <Lane />
-        <Lane />
+        <Lane type="heights" />
+        <Lane type="ground" />
+        <Lane type="ground" />
+        <Lane type="ground" />
+        <Lane type="water" />
       </div>
     </Fragment>
   );

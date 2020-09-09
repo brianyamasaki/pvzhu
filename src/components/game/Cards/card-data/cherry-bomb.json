@@ -2,6 +2,7 @@
   "name": "Cherry Bomb",
   "team": "Plants",
   "type": "trick",
+  "description": "",
   "mana": 6,
   "strength": 3,
   "extras": {
