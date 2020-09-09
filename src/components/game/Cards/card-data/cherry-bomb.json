@@ -1,0 +1,11 @@
+{
+  "name": "Cherry Bomb",
+  "team": "Plants",
+  "type": "trick",
+  "mana": 6,
+  "strength": 3,
+  "extras": {
+    "laneDamageNeighbor": 1,
+    "laneChoose": true
+  }
+}

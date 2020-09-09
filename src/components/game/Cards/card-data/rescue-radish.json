@@ -1,0 +1,12 @@
+{
+  "name": "Rescue Radish",
+  "team": "Plants",
+  "type": "fighter",
+  "mana": 3,
+  "strength": 3,
+  "health": 4,
+  "extras": {
+    "bounce": true,
+    "targetFriendly": true
+  }
+}

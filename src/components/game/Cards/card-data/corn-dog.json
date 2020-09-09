@@ -1,0 +1,12 @@
+{
+  "name": "Corn Dog",
+  "team": "Plants",
+  "type": "fighter",
+  "mana": 2,
+  "strength": 3,
+  "health": 2,
+  "extras": {
+    "hunt": true,
+    "amphibious": true
+  }
+}

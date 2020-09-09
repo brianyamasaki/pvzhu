@@ -1,0 +1,13 @@
+.health-meter {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  border: 3px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  div {
+    color: white;
+    text-align: center;
+  }
+}

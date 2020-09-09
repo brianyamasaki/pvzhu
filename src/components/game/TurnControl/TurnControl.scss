@@ -1,0 +1,13 @@
+.turn-control {
+  height: 60px;
+  width: 60px;
+  border: 3px solid white;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  div {
+    color: white;
+    text-align: center;
+  }
+}
