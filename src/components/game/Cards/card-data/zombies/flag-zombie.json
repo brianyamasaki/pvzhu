@@ -1,0 +1,14 @@
+{
+  "name": "Flag Zombie",
+  "team": "Zombies",
+  "type": "fighter",
+  "description": "",
+  "mana": 2,
+  "strength": 1,
+  "health": 3,
+  "extras": {
+    "gravestone": true,
+    "whenHurt": 2,
+    "discountHandMana": 1
+  }
+}

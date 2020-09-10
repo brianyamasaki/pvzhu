@@ -12,7 +12,7 @@ const Player: React.FC = () => {
       <div className="pvz-player">
         <div className="controls">
           <Indicators />
-          <Hero />
+          <Hero team="plant" />
           <TurnControl />
         </div>
         <Cards count={10} />

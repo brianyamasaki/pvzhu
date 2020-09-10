@@ -1,0 +1,16 @@
+{
+  "name": "Plant Food",
+  "team": "Plants",
+  "type": "trick",
+  "description": "",
+  "mana": 6,
+  "strength": 3,
+  "extras": {
+    "targetFriendly": true,
+    "strengthToFriendly": {
+      "all": 1
+    },
+    "healthToFriendly": 1,
+    "bonusAttack": true
+  }
+}

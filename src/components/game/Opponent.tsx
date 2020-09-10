@@ -10,7 +10,7 @@ const Opponent: React.FC = () => {
     <Fragment>
       <div className="pvz-opponent">
         <OpponentCards count={3} />
-        <Hero />
+        <Hero team="zombie" />
         <Indicators />
       </div>
     </Fragment>

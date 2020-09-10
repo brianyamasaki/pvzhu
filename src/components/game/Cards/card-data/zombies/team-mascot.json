@@ -1,0 +1,14 @@
+{
+  "name": "Team Mascot",
+  "team": "Zombies",
+  "type": "fighter",
+  "description": "",
+  "mana": 3,
+  "strength": 1,
+  "health": 4,
+  "extras": {
+    "strengthToFriendly": {
+      "sports": 1
+    }
+  }
+}

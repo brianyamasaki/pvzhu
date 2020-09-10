@@ -1,0 +1,12 @@
+{
+  "name": "Camel Crossing",
+  "team": "Zombies",
+  "type": "trick",
+  "description": "",
+  "mana": 1,
+  "extras": {
+    "strengthToFriendly": {
+      "all": 2
+    }
+  }
+}

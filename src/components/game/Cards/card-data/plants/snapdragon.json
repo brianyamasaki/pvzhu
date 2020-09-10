@@ -1,0 +1,15 @@
+{
+  "name": "Snapdragon",
+  "team": "Plants",
+  "type": "fighter",
+  "description": "",
+  "mana": 4,
+  "strength": 3,
+  "health": 3,
+  "extras": {
+    "splash": true,
+    "splashDamage": 3,
+    "laneDamageNeighbor": 1,
+    "laneChoose": true
+  }
+}

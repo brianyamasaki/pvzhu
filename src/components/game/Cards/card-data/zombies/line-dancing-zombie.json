@@ -1,0 +1,13 @@
+{
+  "name": "Line Dancing Zombie",
+  "team": "Zombies",
+  "type": "fighter",
+  "description": "",
+  "mana": 3,
+  "strength": 3,
+  "health": 1,
+  "extras": {
+    "gravestone": true,
+    "strikethrough": true
+  }
+}

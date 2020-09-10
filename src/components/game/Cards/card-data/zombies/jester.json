@@ -1,0 +1,13 @@
+{
+  "name": "Jester",
+  "team": "Zombies",
+  "type": "fighter",
+  "description": "",
+  "mana": 3,
+  "strength": 1,
+  "health": 5,
+  "extras": {
+    "gravestone": true,
+    "whenHurt": 2
+  }
+}
